@@ -1,0 +1,23 @@
+{
+  "name": "Mark-s-Boatride",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkMcKenna5/Mark-s-Boatride.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkMcKenna5/Mark-s-Boatride/issues"
+  },
+  "homepage": "https://github.com/MarkMcKenna5/Mark-s-Boatride#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
